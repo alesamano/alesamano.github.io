@@ -11,7 +11,7 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #272829;
+  color: #130145;
 }
 
 a {
@@ -176,7 +176,7 @@ h6 {
 .nav-menu a:focus {
   display: flex;
   align-items: center;
-  color: #a8a9b4;
+  color: #a9c26e;
   padding: 12px 15px;
   margin-bottom: 8px;
   transition: 0.3s;
@@ -241,13 +241,13 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/fly_pangenome_copy.png") top center;
+  background: url("../img/fly_pg.png") top center;
   background-size: cover;
 }
 
 #hero:before {
   content: "";
-  background: rgba(5, 13, 24, 0.3);
+  background: rgba(5, 13, 24, 0.0);
   position: absolute;
   bottom: 0;
   top: 0;
@@ -263,18 +263,27 @@ h6 {
 }
 
 #hero h1 {
-  margin: 0 0 10px 0;
-  font-size: 64px;
+  margin: 0 0 20px 0;
+  font-size: 90px;
   font-weight: 700;
   line-height: 56px;
-  color: #fff;
+  color: #1c096f;
+  text-align: left;
+  position: absolute;
+  top: 200%;
+  left:10%;
 }
 
 #hero p {
-  color: #fff;
-  margin-bottom: 50px;
-  font-size: 26px;
+  color: #1f0505;
+  margin: 0 0 10px 0;
+  font-size: 30px;
   font-family: "Poppins", sans-serif;
+  text-align: left;
+  position: relative;
+  top: 400%;
+  left:10%;
+
 }
 
 #hero p span {
