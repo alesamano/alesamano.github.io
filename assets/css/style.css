@@ -271,7 +271,7 @@ h6 {
   font-size: 90px;
   font-weight: 700;
   line-height: 56px;
-  color: #1c096f;
+  color: #000000;
   text-align: left;
   position: relative;
   top: 200%;
@@ -279,7 +279,7 @@ h6 {
 }
 
 #hero p {
-  color: #1f0505;
+  color: #44516b;
   margin: 0 0 10px 0;
   font-size: 30px;
   font-family: "Poppins", sans-serif;
