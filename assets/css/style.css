@@ -272,10 +272,10 @@ h6 {
   font-weight: 700;
   line-height: 56px;
   color: #000000;
-  text-align: left;
+  text-align: justify;
   position: relative;
   top: 200%;
-  left:10%;
+  left:45%;
 }
 
 #hero p {
@@ -286,7 +286,7 @@ h6 {
   text-align: left;
   position: relative;
   top: 200%;
-  left:10%;
+  left:20%;
 
 }
 
